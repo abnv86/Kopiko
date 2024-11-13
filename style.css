@@ -1,0 +1,158 @@
+html,body{
+    overflow-x: hidden;
+}
+*{
+    margin: 0;
+    text-decoration: none;
+    scroll-behavior: smooth;
+}
+.header{
+    background-color: black;
+    width: 100%;
+    height: 193px;
+    margin: 0;
+}
+.heading1{
+    padding: 20px 0px;
+    text-align: center;
+    color: #b7b7b7;
+    font-family: "Playfair Display", serif;
+    text-decoration: none;
+    padding-left: 484px;
+    position: relative;
+    top: 38px;
+    font-size: 40px;
+    letter-spacing: 5.3px;
+    transition: 0.4s;
+}
+.heading1:hover{
+    color: #db4f3d;
+    }
+.title-description{
+    font-family: "Open Sans", sans-serif;
+    letter-spacing: 5.4px;
+    font-size: 11.5px;
+    color: #b7b7b7;
+    margin-left: 412px;
+}
+.title-description-div{
+    margin-top: 35px;
+}
+.line-div{
+    width: 90%;
+    height: 0.8px;
+    background: rgb(51, 48, 48);
+    margin-top: 39px;
+    margin-left: 50px;
+    
+}
+
+.list{
+    position: relative;
+    list-style: none;
+    float: right;
+    right: 252px;
+}
+
+.list1{
+    display: inline-block;
+    line-height: 60px;
+    margin-right: 41px;
+    font-family: "Open Sans", sans-serif;
+    font-size: 13px;
+}
+.imge1{
+width: 100%;
+padding-right: 10px;
+}
+.imge-one-div{
+ width: 100%;
+
+ position: relative;
+ bottom:3px;
+}
+.main-header{
+    
+    height: 2230px;
+    background: black;
+}
+.para-text{
+    width: 100%;
+    height: 206px;
+    background: black;
+    margin-bottom: 20px;
+    position: relative;
+    bottom: 301px;
+    color: rgb(153, 153, 153);
+    text-align: center;
+    margin-top: 400px;
+}
+.list2{
+    color: #db4f3d;
+}
+.list3{
+    color:white;
+    transition: 0.4s;
+}
+.list3:hover{
+    color: #db4f3d;
+    }
+    .para-one{
+       font-family: Roboto, sans-serif;
+       line-height: 35px;
+       font-size: 19.3px;
+       margin-bottom: 30px;
+       padding-top: 5px;
+    }
+   
+    
+    .imge2{
+     width: 70%;
+     padding-left: 400px;
+     padding: 0px 0px;
+     padding-top: 23px;
+     margin-bottom: 260px;
+    }
+    .fb-icon{
+        margin-left: -403px;
+        display: inline-block;
+        margin-right: 90px;
+    }
+    .yt-icon{
+      color: #ff0000;
+      font-size: 30px;
+      
+    }
+    .insta-icon{
+        color: white;
+        font-size: 30px;
+        margin-right: 90px;
+    }
+    .lnkd-icon{
+        font-size: 30px;
+        color: blue;
+        margin-right: 90px;
+    }
+    .footer-four-logos{
+        padding-left: 400px;
+        padding-bottom: 164px;
+    }
+    .cpyrgt{
+        color: #999;
+        font-family: "Open Sans", sans-serif;
+        
+       
+    }
+    .footer-text{
+        text-align: center;
+        font-size: 13px;
+    }
+    .footer-kopiko{
+        color: white;
+        text-decoration: none;
+        transition: 0.4s;
+    }
+    .footer-kopiko:hover{
+        color: #db4f3d;
+         text-decoration: underline;
+    }
